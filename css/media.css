@@ -1,0 +1,307 @@
+@media (max-width : 1440px) {
+    h1 {font-size: 11rem; line-height: 105px;}
+    .primary-btn {font-size: 2rem; height: 50px; width: 180px;}
+    header nav {padding: 0 50px;}
+    header nav .menu-items ul li {padding: 15px;}
+
+    .home-section .container-1 {padding: 75px 0px;}
+    .home-section .container-1 .text-content h2 {font-size: 6.5rem; line-height: 45px;}
+    .home-section .container-1 .hero-img {top: -85px; right: -50px;}
+    
+    .about-section::before {height: 510px; width: 915px; right: -200px;}
+    .about-section .container-1 .left-content {width: 43%;}
+    .about-section .container-1 .right-img img {height: 280px; width: 540px;}
+
+    .process-section::before {width: 385px; height: 980px;}
+    .process-section .container-fluid {padding-left: 9%;}
+    .process-section .container-fluid .box-content .text {width: 60%; margin: 20px 15px 0 0;}
+    .process-section .container-fluid .slider-row .slider-col .inside-text {width: 72%; margin-top: 100px; position: relative; padding: 0 4px; z-index: 2;}
+    .process-section .container-fluid .slider-row .slider-col .inside-text span {font-size: 50px;}
+    .process-section .container-fluid .slider-row .slider-col .inside-text h3 {font-size: 35px;}
+    .process-section .container-fluid .slider-row .slider-col .inside-text p {font-size: 17px;}
+
+    .team-section::before {height: 750px; width: 155px; top: -160px;}
+    .team-section .container-1 .our-team .team .name-bg {left: 185px;}
+
+    .client-section::before {height: 400px; width: 400px; top: 0px;}
+    .swiper-horizontal>.swiper-pagination-bullets, .swiper-pagination-bullets.swiper-pagination-horizontal, .swiper-pagination-custom, .swiper-pagination-fraction 
+    {left: 40px;}
+}
+
+@media (max-width : 1200px) {
+    h1 {font-size: 9rem; line-height: 85px;}
+    header nav .menu-items ul li {padding: 10px;}
+
+    .home-section .container-1 .text-content h2 {font-size: 5.5rem; line-height: 45px;}
+
+    .about-section::before {height: 460px; width: 810px; right: -150px;}
+    .about-section .container-1 .right-img img {height: 240px; width: 440px;}
+    .about-section .container-1 .left-content {width: 50%;}
+
+    .process-section {padding: 100px 0;}
+    .process-section::before {width: 350px; height: 945px; top: -215px;}
+    .process-section .container-fluid {padding-left: 3%;}
+    .process-section .container-fluid h2  {width: 60%; text-align: center;}
+    .process-section .container-fluid .box-content {display: block !important;}
+    .process-section .container-fluid .box-content .text {margin: 20px 15px 40px 0; text-align: center;}
+    
+    .team-section::before {height: 705px; width: 110px; top: -115px;}
+
+    .client-section::before {height: 370px; width: 370px;}
+    .client-section::after {left: -600px;}
+    .client-section .container-fluid {padding-left: 110px;}
+    .client-section .container-fluid .client-content .left-content {padding: 100px 0 0px 40px;}
+
+    .swiper-horizontal>.swiper-pagination-bullets, .swiper-pagination-bullets.swiper-pagination-horizontal, .swiper-pagination-custom, .swiper-pagination-fraction 
+    {left: 105px;}
+}
+
+@media (max-width : 1024px) {
+    h1 {font-size: 8rem; line-height: 74px;}
+    h2 {font-size: 5rem;}
+    h3 {font-size: 2.7rem;}
+    .primary-btn {font-size: 1.7rem; height: 45px; width: 160px;}
+    
+    header nav .logo {font-size: 3.5rem;}
+    header nav {padding: 0 10px;}  
+    ul {padding-left: 0 !important;}
+    header nav .menu-items ul li {padding: 8px;}
+
+    .home-section .container-1 {padding: 45px 0px;}
+    .home-section .container-1 .text-content h2 {font-size: 6.2rem; line-height: 50px;}
+    .home-section .container-1 .hero-img {height: 700px; top: -85px; right: -50px;}
+    .home-section .container-1 .text-content h2 {margin-bottom: 30px;}
+
+    .about-section::before {height: 440px; width: 770px; right: -240px;}
+    .about-section .container-1 .right-img img {height: 180px; width: 340px;}
+    .about-section .container-1 .left-content {width: 50%;}
+    .about-section .container-1 .left-content p {padding: 10px 0 25px;}
+
+    .service-section::before {top: 255px;}
+    .service-section .container-1 .row .col .icon {height: 65px; width: 65px;}
+
+    .process-section {padding: 60px 0;}
+    .process-section::before {width: 300px; height: 900px; top: -210px;}
+    .process-section .container-fluid h2 {width: 75%;}
+    .process-section .container-fluid .box-content .text {width: 75%;}
+    .process-section .container-fluid .slider-row .slider-col .inside-text h3 {font-size: 30px;}
+    .process-section .container-fluid .slider-row .slider-col .inside-text p {font-size: 16px;}
+    .process-section .container-fluid .slider-row .slider-col .inside-text span {font-size: 40px;}
+
+    .team-section::before {width: 90px;}
+
+    .client-section {padding: 80px 0;}
+    .client-section::before {height: 385px; width: 385px;}
+    .client-section::after {left: -640px;}
+    .client-section .container-fluid {padding-left: 20px;}
+    .client-section .container-fluid .client-content .left-content {padding: 100px 0 0px 25px;}
+    .client-section .container-fluid .client-content .left-content .para img {height: 47px; width: 65px;}
+    .client-section .container-fluid .client-content .left-content h4 {margin: 20px 0px 0px 80px;}
+    
+    footer::after {bottom: -270px; right: -115px;}
+    footer .container-1 .contact-row .contact-boxes .side-info h4 {font-size: 20px;}
+    footer .container-1 .contact-row .contact-boxes .side-info p {font-size: 16px;}
+    footer .container-1 .line .sub {width: 570px;}
+    
+    .swiper-horizontal>.swiper-pagination-bullets, .swiper-pagination-bullets.swiper-pagination-horizontal, .swiper-pagination-custom, .swiper-pagination-fraction 
+    {left: 120px;}
+    .row-gap-5 {row-gap: 6rem !important;}
+}
+
+@media (max-width : 768px) {
+    h1 {font-size: 7rem; line-height: 65px;}
+    h2 {font-size: 4rem;}
+    .primary-btn {font-size: 1.6rem; height: 40px; width: 140px;}
+    header {position: relative;}
+    header nav {padding: 0 25px;}
+    header nav .menu-items ul {
+        display: block;
+        width: 30%;
+        height: auto;
+        position: absolute;
+        top: 0%;
+        right: -50%;
+        padding: 16px 0;
+        background-color: rgb(133 24 45);
+        transition: 0.6s ease-in;
+    }
+    header nav .menu-items ul.active {right: 0;}
+    .fa-xmark {display: inline; padding-right: 20px;}
+    header nav .menu-items ul li {padding: 38px 0 0 25px;}
+    header nav .menu-items ul li:nth-child(1) {display: block; padding: 0; text-align: end;}
+    header nav .menu-items ul li:nth-last-child(1) , header nav .menu-items ul li:nth-last-child(2){display: inline-block; margin-top: 10px;}
+    .fa-bars {display: inline;}
+
+    .home-section {padding: 140px 0 90px;}
+    .home-section .container-1 .text-content h2 {font-size: 5.5rem; line-height: 45px;}
+    .home-section .container-1 .hero-img {height: 580px; top: -100px; right: -85px;}
+    .home-section .container-1 .hero-img::before {opacity: 0.4;}
+
+    .about-section::before {height: 436px; width: 655px; right: -180px;}
+    .about-section .container-1 .right-img img {height: 150px; width: 300px;}
+    .about-section .container-1 .left-content {width: 53%;}
+
+    .service-section {padding: 50px 0;}
+    .service-section::before {left: -295px;}
+    .service-section .container-1 .row {margin-top: 50px;}
+    .service-section .container-1 .row .col .icon {height: 50px; width: 50px; margin-top: -10px; padding: 13px;}
+    .service-section .container-1 .row .col .icon img {height: 25px; width: 25px;}
+    
+    .process-section::before {width: 245px; height: 835px; top: -180px;}
+    .process-section .container-fluid h2 {width: 85%;}
+    .process-section .container-fluid .box-content .text {width: 85%;}
+
+    .team-section::before {width: 56px; height: 650px; top: -60px;}
+    .team-section .container-1 .our-team .team {height: 335px;}
+    .team-section .container-1 .our-team .team::before {height: 310px; width: 310px;}
+    .team-section .container-1 .our-team .team::after {top: 46%; left: 155px; height: 255px; width: 255px;}
+    .team-section .container-1 .our-team .team h3 {font-size: 18px; height: 34px; width: 200px; bottom: 25px; left: 110px;}
+    .team-section .container-1 .our-team .team p {font-size: 17px; height: 26px; width: 140px; bottom: 15px; left: 112px;}
+
+    .client-section::before {height: 185px; width: 830px; top: -15px; right: -325px;}
+    .client-section::after {left: -710px; top: -155px;}
+    .client-section .main-hero {height: 310px; width: 310px;}
+    .client-section .main-hero::before {height: 310px; width: 310px;}
+    .client-section .main-hero::after {top: 50%; left: 156px; height: 260px; width: 260px;}
+    .client-section .container-fluid h2 {padding-left: 70px;}
+    .client-section .container-fluid .client-content {flex-direction: column;}
+    .client-section .container-fluid .client-content .left-content {width: 100% !important; padding: 20px 20px 0 20px;}
+    .client-section .swiper {overflow: visible;}
+    .client-section .swiper-wrapper {margin-bottom: 45px;}
+    
+    footer {padding: 35px 0;}
+    footer .container-1 .logos {max-width: 450px; margin: 20px auto;}
+    footer .container-1 .line .sub {width: 480px; margin-bottom: 20px;}
+    footer::after {bottom: -315px; right: -150px;}
+    footer .container-1 .para-last {padding: 0 20px;}
+    
+    .swiper-horizontal>.swiper-pagination-bullets, .swiper-pagination-bullets.swiper-pagination-horizontal, .swiper-pagination-custom, .swiper-pagination-fraction
+    {width: 70%; top: 570px;}
+    .row-gap-sm-5 {row-gap: 5rem !important;}
+}
+
+@media (max-width: 576px) {
+    h1 {font-size: 8rem; line-height: 80px;}
+    h2 {font-size: 3.5rem;}    
+    h3 {font-size: 2.5rem;}
+    .primary-btn {font-size: 1.8rem; height: 48px; width: 160px;}
+    .container-1 {padding: 0 60px;}
+
+    header nav .logo {font-size: 3.7rem;}
+    header nav .menu-items ul li {padding: 32.3px 0 0 25px;}
+
+    .home-section .container-1 {padding: 0px 0px;}
+    .home-section .container-1 .text-content {width: 100%;}
+    .home-section .container-1 .text-content h2 {font-size: 5.7rem; line-height: 48px;}
+    .home-section .container-1 .hero-img {display: none;}
+
+    .about-section::before {display: none;}
+    .about-section .container-1 .left-content {width: 100%;}
+    .about-section .container-1 .right-img {display: none;}
+
+    .service-section {padding: 40px 0;}
+    .service-section .container-1 .row {margin-top: 30px;}
+    .service-section .container-1 .row .col .icon {height: 60px; width: 60px; margin-top: -10px; padding: 15px;}
+    .service-section .container-1 .row .col .icon img {height: 26px; width: 26px;}
+
+    .process-section::before {width: 192px; height: 800px;}
+    .process-section .container-fluid h2 {width: 90%;}
+    .process-section .container-fluid .box-content .text {width: 90%;}
+    .process-section .container-fluid .slider-row {padding: 0 35px 0 120px;}
+    .process-section .container-fluid .slider-row .slider-col .inside-text {width: 80%; margin-top: 130px;}
+    .process-section .container-fluid .slider-row .slider-col .inside-text span {font-size: 45px; top: -140px; right: -10px;}
+    .process-section .container-fluid .slider-row .slider-col .inside-text h3 {font-size: 32px;}
+
+    .team-section {padding: 40px 0;}
+    .team-section .container-1 .our-team .team {height: 240px;}
+    .team-section .container-1 .our-team .team::before {height: 240px; width: 240px;}
+    .team-section .container-1 .our-team .team::after {top: 50%; left: 120px; height: 210px; width: 210px;}
+    .team-section .container-1 .our-team .team h3 {font-size: 15px; height: 30px; width: 190px; bottom: -10px; left: 85px;}
+    .team-section .container-1 .our-team .team p {font-size: 14px; height: 22px; width: 130px; bottom: -19px; left: 80px;}
+    .swiper-3d .swiper-wrapper {padding-left: calc(24% - 5%);}
+    .swiper-button-next:after {clip-path: polygon(50% 0%, 100% 50%, 50% 100%, 50% 50%);}
+    .swiper-button-prev:after {clip-path: polygon(50% 0%, 50% 49%, 50% 100%, 0% 50%);}
+
+    .client-section {padding: 40px 0 90px;}
+    .client-section::before {right: revert-layer; height: 100px; width: 1050px; top: 0px;}
+    .client-section::after {display: none; left: -770px; top: -170px; height: 680px; z-index: -1;}
+
+    .client-section .container-fluid .client-content {flex-direction: column; justify-content: center; align-items: center;}
+    .client-section .container-fluid .client-content .left-content .para img {display: none;}
+    .client-section .container-fluid .client-content .left-content .para p {text-align: center;}
+    .client-section .container-fluid .client-content .left-content h4 { margin: 10px 0px 0px 0px; text-align: center;}
+    .client-section .container-fluid h2 {padding-left: 0px; text-align: center;}
+    .client-section .container-fluid .client-content .left-content {padding: 20px 0px 0 0px;}
+
+    footer .container-1 .contact-row {padding: 40px 20px;}
+    footer .container-1 .logos {max-width: 315px; margin: 15px auto;}
+    footer .container-1 .line .sub {width: 350px; margin-bottom: 15px;}
+    footer .container-1 .para-last {padding: 0 52px;}
+
+    .swiper-horizontal>.swiper-pagination-bullets.swiper-pagination-bullets-dynamic, .swiper-pagination-horizontal.swiper-pagination-bullets.swiper-pagination-bullets-dynamic 
+    {left: 270px; top: 515px;}
+    .mt-5 {margin-top: 0rem !important;}
+    .row-gap-5 {row-gap: 4rem !important;}
+}
+
+@media (max-width : 430px) {
+    h1 {font-size: 6rem; line-height: 60px;}
+    h2 {font-size: 3rem;}
+    p {font-size: 1.6rem;}
+    .container-1 {padding: 0 40px;}
+    .container-fluid {padding: 0 40px;}
+    .primary-btn {font-size: 1.6rem; height: 40px; width: 135px;}
+
+    header nav {padding: 0 15px;}
+    header nav .menu-items ul {width: 40%;}
+    header nav .menu-items ul li {padding: 23.5px 0 0 25px;}
+    header nav .logo {font-size: 3.5rem;}
+
+    .home-section .container-1 .text-content h2 {font-size: 4.3rem; line-height: 30px;}
+
+    .about-section {padding: 30px 0;}
+    .about-section .container-1 .left-content p {padding: 0px 0 15px;}
+
+    .service-section {padding: 30px 0;}
+    .service-section::before {left: -310px;}
+    .service-section .container-1 .row .col .icon {height: 50px; width: 50px; margin-top: -8px; padding: 10px;}
+    
+    .process-section {padding: 30px 0;}
+    .process-section .container-fluid .slider-row {padding: 0 0px 0 50px;}
+    .process-section .container-fluid .slider-row .slider-col .inside-text {padding: 0 12px;}
+    .process-section .container-fluid .slider-row .slider-col .inside-text h3 {font-size: 28px;}
+    .process-section .container-fluid .slider-row .slider-col .inside-text p {width: 85%;}
+    .process-section .container-fluid .slider-row .slider-col .inside-text span {font-size: 40px; top: -130px; right: 0px;}
+
+    .team-section {padding: 30px 0;}
+    .team-section::before {width: 30px;}
+    .team-section .container-1 .our-team .team {height: 200px;}
+    .team-section .container-1 .our-team .team::before {height: 200px; width: 200px;}
+    .team-section .container-1 .our-team .team::after {top: 50%; left: 100px; height: 170px; width: 170px;}
+    .team-section .container-1 .our-team .team h3 {font-size: 14px; height: 25px; width: 175px; bottom: 0px; left: 65px;}
+    .team-section .container-1 .our-team .team p {font-size: 14px; height: 21px; width: 119px; bottom: -12px; left: 70px;}
+    
+    .client-section {padding: 30px 0 90px;}
+    .client-section::after {top: -240px;}
+    .client-section .main-hero {height: 245px; width: 245px;}
+    .client-section .main-hero::before {height: 245px; width: 245px;}
+    .client-section .main-hero::after {left: 122px; height: 210px; width: 210px;}
+    .client-section .swiper-wrapper {margin-bottom: 30px;}
+    
+    footer .container-1 .contact-row {padding: 40px 20px;}
+    footer .container-1 .line .sub {width: 280px;}
+    footer .container-1 .para-last {padding: 0 30px;}
+
+    .swiper-button-next, .swiper-button-prev {top: 32%;}
+    .swiper-horizontal>.swiper-pagination-bullets, .swiper-pagination-bullets.swiper-pagination-horizontal, .swiper-pagination-custom, .swiper-pagination-fraction
+    {left: 0px; top: 500px; width: 100%;}
+    .swiper-3d .swiper-wrapper {padding: 0 70px;}
+    .row-gap-5 {row-gap: 2rem !important;}
+}
+
+@media (max-width : 375px) {
+    .client-section .swiper-wrapper {margin-bottom: 5px;}
+    .swiper-3d .swiper-wrapper {padding: 0 45px;}
+    .swiper-horizontal>.swiper-pagination-bullets, .swiper-pagination-bullets.swiper-pagination-horizontal, .swiper-pagination-custom, .swiper-pagination-fraction
+    {top: 520px;}
+}

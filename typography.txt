@@ -1,0 +1,18 @@
+Fonts : 
+	Lato (font-family: "Lato", sans-serif;)
+	Open sans (font-family: "Open Sans", sans-serif;)
+	Peace sans Download
+	Lemon milk bold Download
+
+h1 : Lemon milk bold 158.78px #fff
+h2 : Peace sans Regular 61.81px #494949
+h3 : Open sans ExtraBold 30px #6f6f6e
+p : Open sans Regular 17px #6a6a6a
+
+Button : Font-family : Lato, Font-size : 21.14px #fff
+	width: 192px;
+	height: 54px;
+	border-radius: 27px;
+	background-color: #bc2e3a;
+
+Container-1 : 1320px
